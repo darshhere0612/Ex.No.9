@@ -25,20 +25,30 @@ Compare the Generated Video with the Original: ○ Assess how closely the genera
 Note the differences and refine the prompt if necessary. Tools/LLMs for Video Generation: ● DALL·E (by OpenAI): A text-to-Video generation tool capable of creating detailed Videos from textual prompts. ○ Website: DALL·E ● Stable Diffusion: An open-source model for generating Videos from text prompts, known for its flexibility and customizable outputs. ○ Website: Stable Diffusion ● MidJourney: A popular AI tool for generating visually striking and creative Videos based on text descriptions. ○ Website: MidJourney
 
 Instructions:
+
 Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
+
 Write the Basic Prompt: Start with a simple description of the primary elements in the Video (e.g., "A sunset over a mountain range").
+
 Refine and Add Details: Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
+
 Use the Selected Tool: Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
+
 Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
 Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
 
 Deliverables:
+
 The Original Video: Provided Video for reference.
+
 The Final Generated Video: The Video created using your refined prompt.
+
 Prompts Used: The text prompts created during the experiment.
+
 Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
 Prompt :
+
 1.Create a Simple Prompt:
 A short and direct description to generate a basic scene.
 A man walking through a forest during sunset is a journey into serenity and wonder. The golden light filters through the trees, casting long shadows and painting the world in hues of amber and crimson. Every step crunches softly on the forest floor, blending with the distant calls of birds settling in for the night.
@@ -59,6 +69,7 @@ https://github.com/user-attachments/assets/1081e537-f437-4f51-8afb-73309f6120f7
 This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
 
 Prompt :
+
 Advance Creative Prompt : A high-speed car race on a professional racetrack during golden hour. Sleek sports cars of various colors — red, blue, black, and yellow — zoom past the camera with motion blur, kicking up dust as they drift around corners. The grandstands are filled with cheering fans. Helicopters follow the race from above. The sky glows with a warm orange hue, casting long shadows across the track. Include dynamic camera angles — low shots near the wheels, aerial views, and slow-motion drifts."
 
 Video : 
